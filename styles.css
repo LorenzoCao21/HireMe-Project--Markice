@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-image:url(http://blog.hostbaby.com/backgrounds/bg_bluegradient.jpg);
+    background-size: cover;
+    color:white;
+    font-family: 'Audiowide', cursive;
+}
+
+h1 {
+    font-size:20px;
+}
+h2 {
+    color:#00FFFF;
+    font-size:40px;
+}
+div {
+    text-decoration: underline;
+    font-size:25px;
+}
+img {
+    border:dotted;
+}
+span {
+    font-weight:bold;
+}
